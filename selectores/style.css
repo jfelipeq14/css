@@ -24,3 +24,9 @@ p {
 div p {
   background-color: DodgerBlue;
 }
+
+/* selector de clase */
+.fullscreen {
+  min-width: 100vw;
+  min-height: 100vh;
+}
