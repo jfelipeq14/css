@@ -1,6 +1,13 @@
 /* selector universal */
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+} */
+
+/* ejemplo con el selector universal */
+* {
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-decoration: none;
 }
