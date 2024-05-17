@@ -30,3 +30,9 @@ div p {
   min-width: 100vw;
   min-height: 100vh;
 }
+
+/* selector de ID */
+#title {
+  color: darkcyan;
+  font-size: large;
+}
