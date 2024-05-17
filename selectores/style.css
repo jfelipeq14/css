@@ -16,3 +16,11 @@
 h2 {
   background-color: skyblue;
 }
+
+/* selector descendiente */
+p {
+  background-color: grey;
+}
+div p {
+  background-color: DodgerBlue;
+}
