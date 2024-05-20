@@ -44,3 +44,8 @@ span {
 div > span {
   background-color: DodgerBlue;
 }
+
+/* selector adyacente */
+li:first-of-type + li {
+  color: red;
+}
