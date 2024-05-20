@@ -60,3 +60,7 @@ p#colision {
 * {
   color: blue;
 }
+
+article:hover {
+  background-color: #f89b4d;
+}
