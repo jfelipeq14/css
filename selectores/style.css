@@ -64,3 +64,7 @@ p#colision {
 article:hover {
   background-color: #f89b4d;
 }
+
+p::first-line {
+  background-color: #333;
+}
