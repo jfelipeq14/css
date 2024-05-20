@@ -49,3 +49,14 @@ div > span {
 li:first-of-type + li {
   color: red;
 }
+
+/* colsiones */
+p {
+  color: red;
+}
+p#colision {
+  color: green;
+}
+* {
+  color: blue;
+}
