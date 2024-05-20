@@ -21,7 +21,7 @@ h2 {
 p {
   background-color: grey;
 }
-div p {
+article p {
   background-color: DodgerBlue;
 }
 
@@ -35,4 +35,12 @@ div p {
 #title {
   color: darkcyan;
   font-size: large;
+}
+
+/* Selector de hijo */
+span {
+  background-color: red;
+}
+div > span {
+  background-color: DodgerBlue;
 }
